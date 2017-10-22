@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "trivia",
-    "description": "An empty new project",
+    "name": "Trivia",
+    "description": "React Native / Expo trivia app demo",
     "slug": "trivia",
     "privacy": "public",
     "sdkVersion": "22.0.0",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
     "icon": "./assets/icon.png",
