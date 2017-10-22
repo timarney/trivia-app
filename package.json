@@ -1,0 +1,24 @@
+{
+  "name": "trivia-app",
+  "version": "1.0.0",
+  "description": "React Native / Expo trivia app demo",
+  "author": "Tim Arney",
+  "private": false,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "test": "tape-watch tests/**/*.js | tap-spec"
+  },
+  "dependencies": {
+    "entities": "^1.1.1",
+    "expo": "^22.0.0",
+    "prop-types": "^15.6.0",
+    "react": "16.0.0-beta.5",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.1.tar.gz",
+    "react-navigation": "^1.0.0-beta.15"
+  },
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.8.0",
+    "tape-watch": "^2.3.0"
+  }
+}
